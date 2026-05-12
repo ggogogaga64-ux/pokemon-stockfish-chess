@@ -1,0 +1,8 @@
+body {
+  margin: 0;
+  font-family: monospace;
+}
+
+.react-chessboard {
+  box-shadow: 0 0 20px #ffcc00;
+}
